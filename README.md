@@ -27,6 +27,7 @@
 ### TO-DO-MVP 
 - Оформите отчеты о дефекте в YouTrack после тестирования [приложения](https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing)
 
+<br/>
 
 ## ✰ Result  
 
